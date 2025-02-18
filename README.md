@@ -93,7 +93,7 @@ step2
 
 ## screenshot
 
-![63ee56161ca282ab7693341568b5fdd](ncnn-android-yolo8\img\1739880726335.png)
+![63ee56161ca282ab7693341568b5fdd](img\1739880726335.png)
 
 ![(screenshot.jpg)
 
