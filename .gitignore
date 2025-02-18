@@ -1,0 +1,5 @@
+# Ignore build directory
+app/build/
+
+# Ignore APK files
+*.apk

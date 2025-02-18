@@ -1,0 +1,3 @@
+D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/.cxx/Debug/5v1i1z5f/x86/CMakeFiles/yolov8ncnn.dir
+D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/.cxx/Debug/5v1i1z5f/x86/CMakeFiles/edit_cache.dir
+D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/.cxx/Debug/5v1i1z5f/x86/CMakeFiles/rebuild_cache.dir

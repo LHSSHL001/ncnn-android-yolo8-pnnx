@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\AndroidSDK\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\.cxx\\Debug\\5v1i1z5f\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\AndroidSDK\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\.cxx\\Debug\\5v1i1z5f\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolo11ncnn-Debug-x86_64": {
+      "buildCommandComponents": [
+        "D:\\AndroidSDK\\SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\.cxx\\Debug\\5v1i1z5f\\x86_64",
+        "yolo11ncnn"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "yolo11ncnn",
+      "output": "D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\build\\intermediates\\cxx\\Debug\\5v1i1z5f\\obj\\x86_64\\libyolo11ncnn.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

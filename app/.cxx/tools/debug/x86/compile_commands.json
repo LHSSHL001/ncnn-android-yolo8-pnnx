@@ -1,0 +1,19 @@
+[
+{
+  "directory": "D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/.cxx/Debug/5v1i1z5f/x86",
+  "command": "D:\\AndroidSDK\\SDK\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android27 --sysroot=D:/AndroidSDK/SDK/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov8ncnn_EXPORTS -isystem D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/src/main/jni/ncnn-20241226-android-vulkan/x86/include/ncnn -isystem D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/src/main/jni/opencv-mobile-4.10.0-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\yolov8ncnn.dir\\yolov8ncnn.cpp.o -c D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\src\\main\\jni\\yolov8ncnn.cpp",
+  "file": "D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\src\\main\\jni\\yolov8ncnn.cpp"
+},
+
+{
+  "directory": "D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/.cxx/Debug/5v1i1z5f/x86",
+  "command": "D:\\AndroidSDK\\SDK\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android27 --sysroot=D:/AndroidSDK/SDK/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov8ncnn_EXPORTS -isystem D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/src/main/jni/ncnn-20241226-android-vulkan/x86/include/ncnn -isystem D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/src/main/jni/opencv-mobile-4.10.0-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\yolov8ncnn.dir\\yolo.cpp.o -c D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\src\\main\\jni\\yolo.cpp",
+  "file": "D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\src\\main\\jni\\yolo.cpp"
+},
+
+{
+  "directory": "D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/.cxx/Debug/5v1i1z5f/x86",
+  "command": "D:\\AndroidSDK\\SDK\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android27 --sysroot=D:/AndroidSDK/SDK/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dyolov8ncnn_EXPORTS -isystem D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/src/main/jni/ncnn-20241226-android-vulkan/x86/include/ncnn -isystem D:/AndroidStudio_Project/ncnn-android-yolo8-pnnx/app/src/main/jni/opencv-mobile-4.10.0-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\yolov8ncnn.dir\\ndkcamera.cpp.o -c D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\src\\main\\jni\\ndkcamera.cpp",
+  "file": "D:\\AndroidStudio_Project\\ncnn-android-yolo8-pnnx\\app\\src\\main\\jni\\ndkcamera.cpp"
+}
+]

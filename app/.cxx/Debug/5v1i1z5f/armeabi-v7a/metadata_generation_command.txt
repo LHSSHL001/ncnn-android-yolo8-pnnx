@@ -1,0 +1,18 @@
+                        -HD:\AndroidStudio_Project\ncnn-android-yolo8-pnnx\app\src\main\jni
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=27
+-DANDROID_PLATFORM=android-27
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=D:\AndroidSDK\SDK\ndk\27.0.12077973
+-DCMAKE_ANDROID_NDK=D:\AndroidSDK\SDK\ndk\27.0.12077973
+-DCMAKE_TOOLCHAIN_FILE=D:\AndroidSDK\SDK\ndk\27.0.12077973\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\AndroidSDK\SDK\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\AndroidStudio_Project\ncnn-android-yolo8-pnnx\app\build\intermediates\cxx\Debug\5v1i1z5f\obj\armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\AndroidStudio_Project\ncnn-android-yolo8-pnnx\app\build\intermediates\cxx\Debug\5v1i1z5f\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-BD:\AndroidStudio_Project\ncnn-android-yolo8-pnnx\app\.cxx\Debug\5v1i1z5f\armeabi-v7a
+-GNinja
+                        Build command args: []
+                        Version: 2
