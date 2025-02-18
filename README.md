@@ -1,5 +1,4 @@
 
-
 # ncnn-android-yolov8 detection demo
 
 The yolov8 object detection
