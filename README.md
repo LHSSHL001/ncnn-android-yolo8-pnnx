@@ -46,7 +46,7 @@ step2
   yolo export model=yolov8s.pt format=ncnn  imgsz=320
   ```
 
-![1739878886425](C:\Users\liuhs\AppData\Roaming\Typora\typora-user-images\1739878886425.png)
+![1739878886425](img\1739878886425.png)
 
 ### load ncnn model
 
@@ -54,7 +54,7 @@ step2
 
 * Open this project with Android Studio, build it and enjoy!
 
-  ![1739880726335](C:\Users\liuhs\AppData\Roaming\Typora\typora-user-images\1739880726335.png)
+  ![1739880726335](img\1739880726335.png)
 
 ## yolov8 custom model export ncnn by pnnx 
 * export ncnn by pnnx
@@ -67,23 +67,23 @@ step2
 
 * change name of model match ncnn model  in `yolov8ncnn.cpp`
 
-  ![1739879792770](C:\Users\liuhs\AppData\Roaming\Typora\typora-user-images\1739879792770.png)
+  ![1739879792770](img\1739879792770.png)
 
 * change input and output for your model
 
-  ![1739879919621](C:\Users\liuhs\AppData\Roaming\Typora\typora-user-images\1739879919621.png)
+  ![1739879919621](img\1739879919621.png)
 
 * change number of class for your model
 
-  ![1739880064896](C:\Users\liuhs\AppData\Roaming\Typora\typora-user-images\1739880064896.png)
+  ![1739880064896](img\1739880064896.png)
 
 * change labels of class for your model
 
-![1739880359204](C:\Users\liuhs\AppData\Roaming\Typora\typora-user-images\1739880359204.png)
+![1739880359204](img\1739880359204.png)
 
 * rebuild this project with Android Studio!
 
-  ![1739883134988](C:\Users\liuhs\AppData\Roaming\Typora\typora-user-images\1739883134988.png)
+  ![1739883134988](img\1739883134988.png)
 
 ## some notes
 * Android ndk camera is used for best efficiency
@@ -93,11 +93,11 @@ step2
 * FPS may be lower in dark environment because of longer camera exposure time
 
 ## screenshot
-![63ee56161ca282ab7693341568b5fdd](C:\Users\liuhs\Desktop\63ee56161ca282ab7693341568b5fdd.jpg)
+![63ee56161ca282ab7693341568b5fdd](img\1739880726335.png)
 
 ![(screenshot.jpg)
 
-![1739883118862](C:\Users\liuhs\AppData\Roaming\Typora\typora-user-images\1739883118862.png)
+![1739883118862](img\1739883118862.png)
 
 ## Reference：  
 https://github.com/nihui/ncnn-android-nanodet  
