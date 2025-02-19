@@ -43,7 +43,7 @@ step2
   yolo export model=yolov8s.pt format=ncnn  imgsz=320
   ```
 
-![1739878886425](img\1739878886425.png)
+![1739878886425](img/1739878886425.png)
 
 ### load ncnn model
 
@@ -51,7 +51,7 @@ step2
 
 - Open this project with Android Studio, build it and enjoy!
 
-  ![1739880726335](img\1739880726335.png)
+  ![1739880726335](img/1739880726335.png)
 
 ## yolov8 custom model export ncnn by pnnx 
 
@@ -65,23 +65,23 @@ step2
 
 - change name of model match ncnn model  in `yolov8ncnn.cpp`
 
-  ![1739879792770](img\1739879792770.png)
+  ![1739879792770](img/1739879792770.png)
 
 - change input and output for your model
 
-  ![1739879919621](img\1739879919621.png)
+  ![1739879919621](img/1739879919621.png)
 
 - change number of class for your model
 
-  ![1739880064896](img\1739880064896.png)
+  ![1739880064896](img/1739880064896.png)
 
 - change labels of class for your model
 
-![1739880359204](img\1739880359204.png)
+![1739880359204](img/1739880359204.png)
 
 - rebuild this project with Android Studio!
 
-  ![1739883134988](img\1739883134988.png)
+  ![1739883134988](img/1739883134988.png)
 
 ## some notes
 
@@ -93,9 +93,9 @@ step2
 
 ## screenshot
 
-![1739880726335](img\1739880726335.png)
+![1739880726335](img/1739880726335.png)
 
-![1739883118862](img\1739883118862.png)
+![1739883118862](img/1739883118862.png)
 
 ## Reference：  
 
